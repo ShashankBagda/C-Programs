@@ -1,0 +1,30 @@
+ 99. Write a C Program which accepts n numbers in an array and display it.
+100. Write a C Program which accepts n numbers in an array and display its average.
+101. Write a C Program which accepts n numbers in an array, sort it and display it.
+102. Write a C Program which accepts n x m numbers in the 2-d array and display it.
+103. Write a C Program which accepts n numbers in an array and find the total no of positive and negative no.
+104. Write a C Program which accepts n numbers in an array and find the maximum and minimum value.
+105. Write a C Program which accepts n*m numbers in an array and find out row total, column total, maximum, minimum and total.  
+106. Write a C Program which shows the concept of the pointer.
+107. Write a C Program to swap two values using function and pointer. 
+108. Write a C Program to generate the array of distinct or unique values from the array given by the user.
+109. Write a C Program to arrange the array values in reverse order.
+110. Write a C Program to Print transpose of a matrix.
+111. Write a C Program to perform the summation and subtraction of two matrices.
+112. Write a C Program to perform the multiplication of two matrices.
+113. Write a C Program to print n x n spiral matrix using matrix.
+114. Write a C Program to left rotate array values as per user choice.
+115. Write a C Program to right rotate array values as per user choice.
+116. Write a C Program to count frequency if each unique no in an array.
+117. Write a C Program to demonstrate stack using an array.
+118. Write a C Program to demonstrate queue using an array.
+119. Write a C Program to get and Print String.
+120. Write a C Program to print String in reverse order.
+121. Write a C Program to print String after changing its case.
+122. Write a C Program to convert String into an integer.
+123. Write a C Program to convert String into float.
+124. Write a C Program to check input String is Palindrome or not.
+125. Write a C Program to convert input binary string into a decimal number (integer).
+126. Write a C Program to convert input binary string into an octal number(integer).
+127. Write a C Program to convert input binary string into Hexadecimal String.
+128. Write a C Program to validate the email address.
